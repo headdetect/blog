@@ -9,15 +9,15 @@ permalink:        pretty
 # Setup
 title:            Nothing To See
 tagline:          There's nothing here worth your time..
-url:              http://eddiep.me/blog
+url:              http://mrlopez.me/blog
 paginate:         5
 baseurl:          /blog/
 author:
-  name:           Eddie Penta
-  url:            http://eddiep.me
-  email:          ecp4224@gmail.com
+  name:           Brayden Lopez
+  url:            http://mrlopez.me
+  email:          brayden.lopez@utah.edu
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/hypereddie/blog
+  repo:           https://github.com/headdetect/blog
