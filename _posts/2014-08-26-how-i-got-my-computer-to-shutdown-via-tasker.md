@@ -13,4 +13,16 @@ This will lock the desktop when the TaskerSlave's very minimal http server recei
 
 Now, I get that this is not exclusive for Tasker. Thanks! I know. But plans in the future may change it so that it can only be used for tasker.
 
+### So how do I get this magic?
+
+Well, let me tell you!
+
+- Download [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) for android
+- Download [TaskerSlave](TODO) for windows/mac/linux.
+- Open TaskerSlave, you should see 3 prebuilt commands. `Sleep`, `Lock`, and `Shutdown`. Add all the commands you want.
+- In tasker, go to the **tasks** tab.
+- Click ‘+’ and click ‘Net’ and then click ‘HTTP Get’. 
+- In the **Server:Port** box, enter `<YourIPAddress>:8080`
+- In the **Path** box, enter your url for the command you would like this task to execute. Ex. `/lock`
+
 Enjoy!
