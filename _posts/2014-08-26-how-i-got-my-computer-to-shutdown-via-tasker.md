@@ -18,7 +18,7 @@ Now, I get that this is not exclusive for Tasker. Thanks! I know. But plans in t
 Well, let me tell you!
 
 - Download [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) for android
-- Download TaskerSlave for [windows](https://mrlopez.me/blog/downloads/TaskerSlave/v1.0/win.zip)/mac/linux.
+- Download TaskerSlave for [windows](https://github.com/headdetect/TaskerSlave/releases/download/v1.0/win.zip)/mac/linux.
 - Open TaskerSlave, you should see 3 prebuilt commands. `Sleep`, `Lock`, and `Shutdown`. Add all the commands you want.
 - In tasker, go to the **tasks** tab.
 - Click ‘+’ and click ‘Net’ and then click ‘HTTP Get’. 
