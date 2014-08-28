@@ -11,7 +11,7 @@ title:            Brayden Lopez
 tagline:          I do cool things sometimes
 url:              http://mrlopez.me/blog
 paginate:         5
-baseurl:          /blog/
+baseurl:          /blog
 author:
   name:           Brayden Lopez
   url:            http://mrlopez.me
