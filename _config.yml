@@ -1,7 +1,6 @@
 # Dependencies
 markdown:         redcarpet
 hightlighter:     rouge
-github:           [Repository metadata]
 
 # Permalinks
 permalink:        pretty
@@ -19,7 +18,9 @@ author:
 sass:
   style: :compressed
 
-# Custom vars
-version:          1.0.0
+permalink: /:title/
+
+# The release of Jekyll Now that you're using
+version: v1.1.0
 github:
   repo:           https://github.com/headdetect/blog
