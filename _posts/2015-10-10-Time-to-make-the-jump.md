@@ -25,8 +25,8 @@ Let's face it, making 80k a year is really nice. But you know whats better than 
 Current estimates are about 100-200k a year (depending on the type of work and how quick you are). There's not much more else to say about this section. More money rocks!
 
 ### Extreme networking
-I'm not talking about surfing the web (TO THE XTREME!). I'm talking about connections. Actual People! You've got to want to be successful. That means, you have to shake some hands and kiss some babies.
-The result of constant networking is indispensable. Success is part: luck, skill, and just knowing the right people.
+I'm not talking about surfing the web TO THE XTREME! I'm talking about connections. Actual People! You've got to want to be successful. That means, you have to shake some hands and kiss some babies.
+The result of business networking is indispensable. Success is part: luck, skill, and just knowing the right people. Go get those connections!
 
 ### No dress code
 You can code without pants on. 
