@@ -1,3 +1,8 @@
+---
+layout: post
+title: How I got my computer to shutdown via Tasker
+---
+
 I posted an album of my [battlestation/room](http://www.reddit.com/r/battlestations/comments/2eco5x/i_like_red_white_and_black/) to Reddit a couple days ago. At the [end of the album](http://i.imgur.com/230L5BK.gif) I showcased a little something I was working on. 
 
 I thought it was pretty neat, and I guess Reddit did too. By the time I awoke in the morning, I had several messages asking "How does the sleep app work?". 
