@@ -1,3 +1,8 @@
+---
+layout: post
+title: Time to make the jump
+---
+
 It's been a while since I've posted here. 
 
 Anyway.
