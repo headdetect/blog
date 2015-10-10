@@ -16,11 +16,11 @@ author:
   url:            http://mrlopez.me
   email:          braydenjaclopez@gmail.com
 sass:
-  style: compressed
+  style:          compressed
 
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
 version: v1.1.0
 github:
-  repo: https://github.com/headdetect/blog
+  repo:             https://github.com/headdetect/blog
