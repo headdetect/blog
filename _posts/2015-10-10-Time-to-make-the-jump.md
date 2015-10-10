@@ -8,7 +8,7 @@ It's been a while since I've posted here.
 Anyway.
 
 Let's talk about development, business, and life. I've been a developer for a little over 8 years, 4 years getting paid for my services. 
-Today I decided to make the jump into freelance work. What does that mean for me? I'm not sure. I began the application process at Toptal, attempting to get in the [node.js group](http://www.toptal.com/nodejs).
+Today I decided to make the jump into freelance work. What does that mean for me? I'm not sure. I began the application process at Toptal, attempting to get in the [node.js group](http://www.toptal.com/nodejs) / [web group](http://www.toptal.com/web) .
 Hopefully this will be the door I use to start my own business, or launch my own product. 
 Why did I decide to be a freelancer? Well, a couple of reasons.
 
