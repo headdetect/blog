@@ -16,6 +16,8 @@ author:
   name:           Brayden Lopez
   url:            http://mrlopez.me
   email:          braydenjaclopez@gmail.com
+sass:
+  style: :compressed
 
 # Custom vars
 version:          1.0.0
